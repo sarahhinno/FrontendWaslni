@@ -1,0 +1,10 @@
+
+.SignMainBackground {
+    background-image: url(../images/RegistrationCompany.png);
+}
+
+.SignContainer {
+    width: 30%;
+    top: 10%;
+    right: 30%;
+}
